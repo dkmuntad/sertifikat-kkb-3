@@ -121,7 +121,7 @@ body {
       top: calc(22.3vw + 4%);
     }
     #jabatan {
-      top: calc(33.3vw + 1.5%);
+      top: calc(32.8vw + 1.5%);
     }
   }
   @media (max-width: 600px) {
@@ -129,7 +129,7 @@ body {
       top: calc(22.3vw + 3%);
     }
     #jabatan {
-      top: calc(33.3vw + 1%);
+      top: calc(32.8vw + 1%);
     }
   }
   @media (max-width: 450px) {
@@ -137,7 +137,7 @@ body {
       top: calc(22.3vw + 2%);
     }
     #jabatan {
-      top: calc(32.9vw);
+      top: calc(32.8vw);
     }
   }
   
